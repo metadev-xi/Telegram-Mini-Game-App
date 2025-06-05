@@ -141,9 +141,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- Website: [0x Technologies](https://0xtech.guru)
+- Website: [0x Technologies](https://0xtech.org)
 - Twitter: [@0x Technologies](https://twitter.com/0xtech.guru)
 - Email: metadevxi@gmail.com
+- Telegram: metaDevxi
 
 ## Acknowledgments
 
